@@ -13,6 +13,7 @@
   "dependencies": {
     "express": "^5.2.1",
     "p-limit": "^7.3.0",
-    "sanitize-filename": "^1.6.4"
+    "sanitize-filename": "^1.6.4",
+    "socket.io": "^4.8.3"
   }
 }
